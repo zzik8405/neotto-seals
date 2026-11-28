@@ -1,0 +1,7 @@
+{
+  "draw_number": 1252,
+  "sealed_at": "2026-11-28T11:05:16.28+00:00",
+  "seal": "935d39761f0787d70725a94c49a5319e418e699ce5e6f37fd4d2abccf18b4f5b",
+  "canon_version": "v1",
+  "canon_rule": "여섯 숫자 오름차순 두 자리 '-' 연결, 한 줄 하나, 줄 끝 개행, 숫자 순 정렬, SHA-256"
+}
